@@ -1,257 +1,140 @@
-# Awesome-Dynamic-UI-Generation-Intelligent-Frontends
+<div align="center">
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends?style=social" alt="GitHub stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends?style=social" alt="GitHub forks"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends?style=flat-square" alt="GitHub issues"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends?style=flat-square" alt="License"/></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-# Awesome-Dynamic-UI-Generation-Intelligent-Frontends
+<br/><br/>
 
-markdown
+<a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends">
+  <img src="./assets/banner.svg" alt="Awesome Dynamic UI Generation & Intelligent Frontends Banner" width="100%" />
+</a>
 
-## Top Dynamic UI Generation & Intelligent Frontends Ecosystem
+# ⚡ Awesome Dynamic UI Generation & Intelligent Frontends 🎨
 
+**Curated List of SaaS Platforms & Open-Source Projects for Generative UI Engines, Prompt-to-Frontend Builders, Design-to-Code Compilers, Server-Driven UIs & Intelligent Frontend Runtimes** 🚀
 
+*Track production-ready tools that generate, stream, adapt, and compile responsive React, Next.js, Vue, and Tailwind user interfaces from natural language prompts, live agent tool outputs, wireframes, and Figma designs.*
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 
-*Focused on Generative UI Engines, Prompt-to-Frontend Builders, Design-to-Code Compilers, Server-Driven & Adaptive UIs & Intelligent Frontend Runtimes*  
+</div>
 
-**Last updated: November 2026**
+---
 
+## 📑 Table of Contents
+- [🔍 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architectural Guidance & Best Practices](#️-architectural-guidance--best-practices)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Share](#-support--share)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Dynamic UI Generation & Intelligent Frontends**. These tools generate, stream, adapt, and compile responsive React/Vue/HTML/Tailwind user interfaces from natural language prompts, live agent tool outputs, wireframes, and Figma designs across web applications, AI copilots, and visual frontend builders.
+## 🔍 Sector Overview & Market Dynamics
 
+The global market for AI-driven software development tools, Generative UI, and low-code/design-to-code platforms is projected to expand from **$7.4B–$9.5B in 2025–2026** toward over **$31B+ by the late 2020s** at an estimated CAGR exceeding 25%.
 
+The sector is currently **moderately fragmented**: incumbent tech titans (e.g., Alphabet/Google, Microsoft/GitHub) anchor broad foundational ecosystems, while specialized high-velocity venture-backed startups (such as Vercel, Framer, and Builder.io) dominate the modern prompt-to-component, design-to-code, and streaming Generative UI layers without a single winner-take-all monopoly.
 
-**Examples** include Vercel v0, Builder.io, Galileo AI (Google Stitch), Locofy.ai, Fronty, TeleportHQ, Anima App, Uizard, Framer AI, Relume, and razorback16/cc-intelligent-ui (the category leaders and popular runtimes). 
+---
 
+## ☁️ SaaS & Hosted Platforms
 
+Below is a detailed comparison of premier SaaS solutions for Generative UI, prompt-to-app development, and design-to-code compilation. Products are sorted in descending order based on company size (market valuation / revenue scale).
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for generative & adaptive AI frontends (`razorback16/cc-intelligent-ui`, `CopilotKit`, `Vercel AI SDK Generative UI`, `assistant-ui`, `Crayon / OpenUI`), prompt-to-frontend & screenshot-to-code generators (`OpenUI`, `screenshot-to-code`, `Bolt.diy`, `Dyad`), and open-source visual page/UI builders (`GrapesJS`, `Puck`, `Plasmic`) — ideal for frontend engineers, AI product builders, UI/UX designers, and full-stack developers.
+| Platform | Company Valuation / Revenue Scale | Specific Starting Tier Price | Free Tier / Free Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| [**Stitch by Google**](https://withgoogle.com) *(formerly Galileo AI)* | **~$3.4 Trillion Market Cap** *(Alphabet Inc.)* | Integrated into Google Cloud / Workspace Developer Tiers | Free tier via Google Cloud free trial ($300 credits for 90 days) & Google AI Studio free tier limits (up to 15 RPM / 1M TPM on Gemini models) | Generative UI design platform converting natural language prompts and rough sketches into multi-screen UI mockups and clean HTML/CSS/Figma exports. |
+| [**Vercel v0**](https://v0.dev) | **$9.3 Billion Valuation** *(Series F, ~$300M+ ARR)* | **$30 / user / month** *(Plus Tier)* | **Forever-Free Plan**: $5 monthly credit allowance capped at a strict maximum of **7 messages per day** | AI-native generative UI system producing production-ready React, Next.js, Tailwind CSS, and `shadcn/ui` components from text prompts and design screenshots. |
+| [**Framer AI**](https://framer.com) | **~$2.0 Billion Valuation** *(estimated, ~$40M+ ARR)* | **$10 / site / month** *(Basic Tier, billed annually)* | **Forever-Free Plan**: 1,000 pages, up to 10 CMS collections, 500 one-off AI credits, 1 locale; publishing locked to `*.framer.website` subdomain with "Made in Framer" badge | Visual web builder and interactive canvas featuring automated AI layout generation, responsive breakpoints, localized copy, and motion animations. |
+| [**Builder.io**](https://builder.io) *(Visual Copilot)* | **~$250 Million Valuation** *(Series B, $15M–$19M ARR)* | **$24 / user / month** *(Pro Tier)* | **Forever-Free Plan**: Up to 5 users, 1 design system, and a metered quota of **60 AI credits per month** (capped at 15 credits per day) | Headless visual CMS and design-to-code engine transforming Figma frames and prompts into clean, component-mapped React, Vue, Svelte, and Angular code. |
+| [**Uizard**](https://uizard.io) *(Miro)* | **~$60 Million Valuation** *(Acquired by Miro)* | **$12 / creator / month** *(Pro Tier, billed annually)* | **Forever-Free Plan**: 2 projects, up to 5 screens per project, 10 pre-made templates, and **3 AI generations per month** (standard 1x resolution export) | Rapid AI wireframing and prototyping platform converting hand-drawn sketches, app screenshots, and prompts into interactive multi-screen mockups. |
+| [**Locofy.ai**](https://locofy.ai) | **~$35 Million Valuation** *($7.3M total VC funding)* | **$40 / month** *(Hobby Tier)* | **Free / Trial Allocation**: One-time grant of **2,000 LDMtokens** with frame-conversion limits for single-frame evaluation | AI design-to-code platform powered by Large Design Models (LDMs) turning Figma and Adobe XD prototypes into responsive React, Next.js, and Vue codebases. |
+| [**Relume**](https://relume.io) | **~$25 Million Valuation** *(Bootstrapped/Profitable, ~$4M+ ARR)* | **$18 / month** *(Starter Tier)* | **Forever-Free Plan**: 1 active project, single-page sitemap generation, up to 1,500 monthly hosted page views on `relumesite.ai` subdomain | AI-powered sitemap and wireframe generator mapping prompts directly onto modular Figma, Webflow, and React/Tailwind component systems. |
+| [**Anima App**](https://animaapp.com) | **~$20 Million Valuation** *(YC-backed, ~$1.5M ARR)* | **$20 / month** *(Starter Tier)* | **Forever-Free Plan**: 5 AI playground messages per day, max 5 total Figma imports/clones, and 5 lifetime code generation exports | Design-to-code automation platform translating Figma designs into live React, Vue, and HTML/Tailwind code with live sandboxes and design-token sync. |
+| [**TeleportHQ**](https://teleporthq.io) | **~$12 Million Valuation** *($3.67M total funding)* | **$14 / month** *(Pro Tier)* | **7-Day Free Trial**: 1 project, up to 200 pages, 30,000 AI tokens; code export disabled (read-only preview), published sites password-protected | Collaborative visual frontend platform offering rapid UI prototyping and code generation for React, Next.js, Vue, Nuxt, and HTML. |
+| [**Fronty**](https://fronty.com) | **~$5 Million Valuation** *(Early Stage/Seed)* | **$4.52 / month** *(Pro Tier)* | **Forever-Free Plan**: 1 image-to-HTML conversion per day; hosting restricted to `fronty.live` subdomain without downloadable standalone code export | Computer vision and AI image-to-HTML/CSS converter creating structured web layouts from screenshots and design files. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+Explore the leading open-source repositories powering Generative UI runtimes, AI frontend frameworks, and design-to-code compilers. Entries are decorated with live GitHub star badges linking directly to their stargazers page and ranked in descending order by star count.
 
+| Project & Repository | Stars | Category & Architecture | Description |
+| :--- | :--- | :--- | :--- |
+| **[shadcn/ui](https://github.com/shadcn-ui/ui)** | [![Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers) | UI Component Primitives | The definitive accessible component architecture copied into your codebase via CLI; used as the default target system by v0, Claude Artifacts, and modern AI UI engines. |
+| **[screenshot-to-code](https://github.com/abi/screenshot-to-code)** | [![Stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social&color=white)](https://github.com/abi/screenshot-to-code/stargazers) | Vision-to-Code Compiler | Converts UI screenshots, mockup images, and Figma prototypes into clean HTML, Tailwind CSS, React, Vue, and Ionic code using multimodal LLMs. |
+| **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** | [![Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social&color=white)](https://github.com/CopilotKit/CopilotKit/stargazers) | Agentic & Generative UI Stack | Full-stack framework for building in-app AI copilots, generative UI sidebars, and real-time streaming React components synchronized with agent state. |
+| **[Continue](https://github.com/continuedev/continue)** | [![Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers) | Open Coding Agent & IDE Engine | Leading open-source AI code assistant and agentic copilot for VS Code and JetBrains; facilitates dynamic code generation, refactoring, and UI prototyping. |
+| **[Vercel AI SDK](https://github.com/vercel/ai)** | [![Stars](https://img.shields.io/github/stars/vercel/ai?style=social&color=white)](https://github.com/vercel/ai/stargazers) | Streaming AI Toolkit | TypeScript toolkit for building AI-powered web applications with streaming text, structured UI schemas, dynamic tool-call rendering, and React Server Components. |
+| **[Onlook](https://github.com/onlook-dev/onlook)** | [![Stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social&color=white)](https://github.com/onlook-dev/onlook/stargazers) | Visual DOM & React Code Editor | Next-generation visual designer tool ("Cursor for Designers") that lets teams visually edit React and Tailwind websites and writes clean code back to source. |
+| **[GrapesJS](https://github.com/GrapesJS/grapesjs)** | [![Stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers) | Extensible Web Builder Framework | Battle-tested open-source visual page builder engine featuring drag-and-drop canvases, CSS managers, and JSON serialization for embedded UI builders. |
+| **[Magic UI](https://github.com/magicuidesign/magicui)** | [![Stars](https://img.shields.io/github/stars/magicuidesign/magicui?style=social&color=white)](https://github.com/magicuidesign/magicui/stargazers) | Animated Component Library | 50+ animated, interactive React/Tailwind primitives designed for landing pages and modern AI-generated frontend experiences. |
+| **[OpenUI](https://github.com/wandb/openui)** | [![Stars](https://img.shields.io/github/stars/wandb/openui?style=social&color=white)](https://github.com/wandb/openui/stargazers) | Prompt-to-UI Playground | Generative UI exploration platform by Weights & Biases allowing developers to describe components in natural language, live-preview HTML/React, and test with Ollama. |
+| **[Dyad](https://github.com/dyad-sh/dyad)** | [![Stars](https://img.shields.io/github/stars/dyad-sh/dyad?style=social&color=white)](https://github.com/dyad-sh/dyad/stargazers) | Local-First AI App Builder | Free, open-source desktop AI application and frontend generator (v0 / Lovable alternative) supporting local Ollama models and cloud APIs. |
+| **[AG-UI Protocol](https://github.com/ag-ui-protocol/ag-ui)** | [![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=social&color=white)](https://github.com/ag-ui-protocol/ag-ui/stargazers) | Agent-UI Protocol Specification | Open, event-based Agent-User Interaction protocol standardizing real-time bidirectional state and UI streaming between AI agents and frontend clients. |
+| **[Bolt.diy](https://github.com/stackblitz-labs/bolt.diy)** | [![Stars](https://img.shields.io/github/stars/stackblitz-labs/bolt.diy?style=social&color=white)](https://github.com/stackblitz-labs/bolt.diy/stargazers) | Full-Stack In-Browser Sandbox | Open-source prompt-to-app generator powered by WebContainers, allowing developers to scaffold, edit, preview, and deploy full-stack apps with any LLM. |
+| **[json-render](https://github.com/vercel-labs/json-render)** | [![Stars](https://img.shields.io/github/stars/vercel-labs/json-render?style=social&color=white)](https://github.com/vercel-labs/json-render/stargazers) | Declarative Generative UI | Framework by Vercel Labs for safely streaming constrained JSON component trees from LLMs and rendering them dynamically on web clients. |
+| **[A2UI](https://github.com/google/A2UI)** | [![Stars](https://img.shields.io/github/stars/google/A2UI?style=social&color=white)](https://github.com/google/A2UI/stargazers) | Agent-to-UI Framework | Google's open-source generative UI framework allowing autonomous agents to stream layout specifications and render dynamic interactive UI components. |
+| **[Puck](https://github.com/measuredco/puck)** | [![Stars](https://img.shields.io/github/stars/measuredco/puck?style=social&color=white)](https://github.com/measuredco/puck/stargazers) | Visual React Editor | Modular, self-hosted open-source visual page editor for React that uses your existing component library and design system tokens. |
+| **[assistant-ui](https://github.com/assistant-ui/assistant-ui)** | [![Stars](https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=social&color=white)](https://github.com/assistant-ui/assistant-ui/stargazers) | React AI Chat & Generative Primitives | Modular React primitives for AI chatbots, generative UI widgets, interactive tool calls, streaming markdown, and human-in-the-loop workflows. |
+| **[Papermark](https://github.com/mfts/papermark)** | [![Stars](https://img.shields.io/github/stars/mfts/papermark?style=social&color=white)](https://github.com/mfts/papermark/stargazers) | Document & Presentation Frontend | Open-source DocSend alternative featuring modern interactive document viewers, web analytics, and dynamic custom frontend branding. |
+| **[Webstudio](https://github.com/webstudio-is/webstudio)** | [![Stars](https://img.shields.io/github/stars/webstudio-is/webstudio?style=social&color=white)](https://github.com/webstudio-is/webstudio/stargazers) | Open-Source Visual Builder | Open-source visual builder and Webflow alternative engineered on open CSS standards and dynamic headless CMS integrations. |
+| **[Plasmic](https://github.com/plasmicapp/plasmic)** | [![Stars](https://img.shields.io/github/stars/plasmicapp/plasmic?style=social&color=white)](https://github.com/plasmicapp/plasmic/stargazers) | Visual Headless CMS Studio | Visual design tool and page builder that integrates cleanly into existing Next.js, Gatsby, and React codebases for continuous design handoff. |
+| **[cc-intelligent-ui](https://github.com/razorback16/cc-intelligent-ui)** | [![Stars](https://img.shields.io/github/stars/razorback16/cc-intelligent-ui?style=social&color=white)](https://github.com/razorback16/cc-intelligent-ui/stargazers) | Claude Dynamic UI Toolkit | Specialized intelligent frontend toolkit rendering interactive charts, LaTeX math, diagrams, and markdown responses dynamically from LLM streams. |
 
+---
 
-## Table of Contents
+## 🛠️ Architectural Guidance & Best Practices
 
-- [SaaS/Hosted Platforms](#saashosted-platforms)
+1. **Security & Sandboxing (Zero-Trust UI)**: Never execute raw AI-generated JavaScript strings (`eval` or `dangerouslySetInnerHTML`). Emphasize declarative JSON schemas (`json-render`, `A2UI`, or AG-UI Protocol) mapped to vetted component registries.
+2. **Design System Alignment**: Standardize LLM prompt system instructions around established headless primitives (like `shadcn/ui` and Radix) to ensure high aesthetic consistency and WCAG accessibility standards.
+3. **State Management & Bidirectional Sync**: Use event-driven runtime protocols (such as CopilotKit AG-UI) to synchronize in-app user interactions back to the backend agent state loop.
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+---
 
-- [How to Contribute](#how-to-contribute)
+## 🤝 How to Contribute
 
-- [Support & Share](#support--share)
+Contributions are welcome and appreciated! To propose a new SaaS platform or open-source repository:
 
-- [Disclaimer](#disclaimer)
+1. 🍴 **Fork the Repository** on GitHub.
+2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-new-ui-tool`).
+3. 📝 **Add Your Entry**: Ensure SaaS entries include verified starting tier prices, specific free tier limits, and company scale. Open-source entries must include a verified repo URL and social star badge.
+4. 🚀 **Submit a Pull Request** with a concise description of the tool's relevance to dynamic and intelligent frontend generation.
 
+---
 
+## 💖 Support & Share
 
-## SaaS/Hosted Platforms
+Thank you for exploring and supporting the **Dynamic UI Generation & Intelligent Frontends** ecosystem!
 
+If you find this curated collection helpful for your engineering projects, research, or daily workflows, please consider supporting the project:
 
+- ⭐ **Star this repository** to help others in the AI and frontend community discover it.
+- 🍴 **Fork & Share** with your fellow developers, engineering teams, and on social media (X/Twitter, LinkedIn).
+- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing maintenance, automated tools verification, and research directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
-- **[Vercel v0](https://v0.dev)**  
+---
 
-  Generative UI and full-stack frontend creation platform transforming natural language prompts, images, and Figma frames into production-ready React, Next.js, Tailwind CSS, and `shadcn/ui` components.
+## 📈 Star History
 
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends&type=date&legend=top-left)
 
+---
 
-- **[Builder.io (Visual Copilot)](https://builder.io)**  
+## ⚠️ Disclaimer
 
-  AI-powered headless visual CMS and design-to-code platform converting Figma designs and prompts into clean, component-mapped React, Vue, Svelte, Angular, and Qwik code.
-
-
-
-- **[Stitch by Google (formerly Galileo AI)](https://withgoogle.com)**  
-
-  Generative UI design platform turning text prompts and rough sketches into high-fidelity, editable multi-screen user interfaces and clean HTML/CSS/Figma exports.
-
-
-
-- **[Locofy.ai](https://locofy.ai)**  
-
-  AI design-to-code platform powered by Large Design Models (LDMs) converting Figma and Adobe XD prototypes into responsive React, Next.js, React Native, Vue, and HTML/CSS codebases.
-
-
-
-- **[Uizard](https://uizard.io)**  
-
-  AI-assisted UI wireframing and rapid prototyping platform transforming hand-drawn sketches, screenshots, and text prompts into interactive multi-screen mockups.
-
-
-
-- **[Framer AI](https://framer.com)**  
-
-  Interactive web design and publishing platform featuring AI layout generation, localization, responsive breakpoints, and smooth motion animations without manual coding.
-
-
-
-- **[Relume (AI Site Builder)](https://relume.io)**  
-
-  AI-driven sitemap, wireframe, and component-system generator mapping prompts directly onto a massive library of Figma, Webflow, and React/Tailwind blocks.
-
-
-
-- **[Anima App](https://animaapp.com)**  
-
-  Design-to-code automation platform translating Figma designs into interactive React, Vue, and HTML/Tailwind code with live code sandboxes and component token sync.
-
-
-
-- **[TeleportHQ](https://teleporthq.io)**  
-
-  Collaborative low-code frontend design and code-generation platform exporting responsive UI layouts into React, Next.js, Vue, Nuxt, Angular, and static HTML.
-
-
-
-- **[Fronty](https://fronty.com)**  
-
-  AI-powered image-to-HTML/CSS converter turning UI screenshots and mockups into structured web pages and semantic stylesheets.
-
-
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[razorback16/cc-intelligent-ui](https://github.com)**  
-
-  Open-source intelligent frontend and dynamic UI generation toolkit engineered for adaptive user interfaces, context-aware component rendering, and modern AI-driven frontend workflows.
-
-
-
-- **[CopilotKit (`CopilotKit/CopilotKit`)](https://github.com)**  
-
-  Flagship open-source React framework and AG-UI runtime for building in-app AI copilots and Generative UIs that dynamically render interactive React components streamed from agent state.
-
-
-
-- **[Vercel AI SDK (`vercel/ai`)](https://github.com)**  
-
-  Industry-standard open-source TypeScript toolkit for building AI-powered frontends, supporting streaming tool calls, structured UI schemas, and dynamic React Server Component rendering.
-
-
-
-- **[OpenUI (`wandb/openui`)](https://github.com)**  
-
-  Popular open-source generative UI playground from Weights & Biases that lets you describe UI components in natural language, preview live React/Tailwind/HTML updates in real time, and run with local Ollama models.
-
-
-
-- **[screenshot-to-code (`abi/screenshot-to-code`)](https://github.com)**  
-
-  Leading open-source tool converting UI screenshots, screen recordings, and Figma mockups directly into clean HTML, Tailwind CSS, React, Vue, or Bootstrap code using multimodal vision models.
-
-
-
-- **[assistant-ui (`assistant-ui/assistant-ui`)](https://github.com)**  
-
-  Composable open-source React primitives (built in the style of `shadcn/ui`) for building intelligent AI chat interfaces with dynamic tool-call UI rendering, streaming markdown, and human-in-the-loop approvals.
-
-
-
-- **[Bolt.diy (`stackblitz-labs/bolt.diy`)](https://github.com)**  
-
-  Open-source full-stack AI frontend generator and WebContainer sandbox allowing developers to prompt, live-edit, and scaffold multi-file web applications with any cloud or local LLM.
-
-
-
-- **[Puck (`measuredco/puck`)](https://github.com)**  
-
-  Modular, self-hosted open-source visual page editor for React enabling teams and AI agents to dynamically compose pages using your own existing React components and design system.
-
-
-
-- **[GrapesJS (`GrapesJS/grapesjs`)](https://github.com)**  
-
-  Extensible open-source Web Builder Framework providing a drag-and-drop canvas, CSS style manager, asset manager, and clean HTML/CSS/JSON serialization for custom dynamic UI builders.
-
-
-
-- **[Plasmic (`plasmicapp/plasmic`)](https://github.com)**  
-
-  Open-source visual builder and headless page/component studio integrating directly into existing React and Next.js codebases for dynamic content and UI composition.
-
-
-
-- **[json-render / A2UI & Server-Driven UI Toolkits (`vercel-labs/json-render` & `google/A2UI`)](https://github.com)**  
-
-  Modern open-source declarative Generative UI specifications enabling LLMs and backends to safely emit constrained JSON component trees rendered natively on web and mobile clients.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Dyad (`dyad-sh/dyad`)](https://github.com)** for a free, local-first open-source desktop AI app and frontend builder (v0/Lovable alternative) supporting local Ollama and cloud APIs.
-
-- **[Onlook (`onlook-dev/onlook`)](https://github.com)** for an open-source "Cursor for Designers"—a visual DOM and Tailwind CSS editor that writes changes directly back into local React/Next.js source code.
-
-- **[Shadcn UI (`shadcn-ui/ui`)](https://github.com)** and **[Magic UI (`magicuidesign/magicui`)](https://github.com)** for the foundational open-source component primitives targeted by almost every modern LLM UI generator.
-
-- **[webstudio (`webstudio-is/webstudio`)](https://github.com)** for an open-source visual web builder (Webflow alternative) built on modern CSS standards and dynamic data bindings.
-
-- **[CopilotKit AG-UI Protocol (`ag-ui-protocol/ag-ui`)](https://github.com)** for the open, event-based Agent-User Interaction protocol standardizing real-time bidirectional state and UI streaming between AI agents and frontends.
-
-
-
-**Frameworks for building custom systems**: Combine **razorback16/cc-intelligent-ui** or **CopilotKit + assistant-ui** for agent-driven Generative UIs inside React apps, **OpenUI** or **screenshot-to-code** for prompt/mockup-to-component generation, and **Puck** or **Onlook** for visual component composition.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Support & Share
-
-
-
-If you find this curated list helpful, consider supporting the project:
-
-
-
-- ⭐ **Star this repository** to help others discover it.
-
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Dynamically generated UI code and LLM-emitted component trees (`json-render`, `OpenUI`, `Bolt.diy`) must be validated against strict component allowlists, schema validators (Zod), and Content Security Policies (CSP) to prevent XSS and arbitrary script execution.
-
-Use code with caution.
-
-• Always audit AI-generated frontend components for WCAG keyboard/screen-reader accessibility, semantic HTML landmarks, and responsive mobile layouts before deploying to production.
-
-Made for frontend engineers, AI product builders, UI/UX designers, and open-source contributors.
-
-Let's make dynamic UI generation and intelligent frontends more open, safe, and composable.
+- This is a community-curated repository provided for educational and architectural reference. Inclusion does not constitute an official endorsement.
+- All dynamic UI code generators and LLM component streams must be properly validated against strict schemas (e.g. Zod) and Content Security Policies (CSP) prior to production deployment.
+- Verify software license terms and pricing details directly on the respective vendor websites as specifications evolve.
