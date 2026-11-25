@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends?style=social" alt="GitHub stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends?style=social" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends?style=social" alt="GitHub forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends?style=flat-square" alt="GitHub issues"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Dynamic-UI-Generation-Intelligent-Frontends?style=flat-square" alt="License"/></a>
@@ -69,9 +69,9 @@ Below is a detailed comparison of premier SaaS solutions for Generative UI, prom
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the leading open-source repositories powering Generative UI runtimes, AI frontend frameworks, and design-to-code compilers. Entries are decorated with live GitHub star badges linking directly to their stargazers page and ranked in descending order by star count.
+Explore the leading open-source repositories powering Generative UI runtimes, AI frontend frameworks, and design-to-code compilers. Entries are decorated with live GitHub Stars_Badges linking directly to their stargazers page and ranked in descending order by Stars_Count.
 
-| Project & Repository | Stars | Category & Architecture | Description |
+| Project & Repository | GitHub_Stars | Category & Architecture | Description |
 | :--- | :--- | :--- | :--- |
 | **[shadcn/ui](https://github.com/shadcn-ui/ui)** | [![Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers) | UI Component Primitives | The definitive accessible component architecture copied into your codebase via CLI; used as the default target system by v0, Claude Artifacts, and modern AI UI engines. |
 | **[screenshot-to-code](https://github.com/abi/screenshot-to-code)** | [![Stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social&color=white)](https://github.com/abi/screenshot-to-code/stargazers) | Vision-to-Code Compiler | Converts UI screenshots, mockup images, and Figma prototypes into clean HTML, Tailwind CSS, React, Vue, and Ionic code using multimodal LLMs. |
@@ -110,7 +110,7 @@ Contributions are welcome and appreciated! To propose a new SaaS platform or ope
 
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-new-ui-tool`).
-3. 📝 **Add Your Entry**: Ensure SaaS entries include verified starting tier prices, specific free tier limits, and company scale. Open-source entries must include a verified repo URL and social star badge.
+3. 📝 **Add Your Entry**: Ensure SaaS entries include verified starting tier prices, specific free tier limits, and company scale. Open-source entries must include a verified repo URL and social Stars_Badge.
 4. 🚀 **Submit a Pull Request** with a concise description of the tool's relevance to dynamic and intelligent frontend generation.
 
 ---
